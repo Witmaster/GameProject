@@ -1,0 +1,12 @@
+Content\Arial20.xnb
+Content\burger.xnb
+Content\explosion.xnb
+Content\frenchfries.xnb
+Content\teddybear.xnb
+Content\teddybearprojectile.xnb
+Content\BurgerDamage.xnb
+Content\BurgerDeath.xnb
+Content\BurgerShot.xnb
+Content\ExplosionSound.xnb
+Content\TeddyBounce.xnb
+Content\TeddyShot.xnb
